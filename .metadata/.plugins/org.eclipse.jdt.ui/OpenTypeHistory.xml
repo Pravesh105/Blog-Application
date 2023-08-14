@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=blog-app/C:\/Users\/pravepat\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.15.Final\/hibernate-core-5.6.15.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.15.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="33" timestamp="1687012132661"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cisco.blog.services{UserService.java[UserService" modifiers="513" timestamp="1687158173665"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cisco.blog.services{PostService.java[PostService" modifiers="513" timestamp="1687073439446"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cisco.blog.services{FileService.java[FileService" modifiers="513" timestamp="1687074917779"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cisco.blog.services{CommentService.java[CommentService" modifiers="513" timestamp="1687093822201"/>
+</typeInfoHistroy>
